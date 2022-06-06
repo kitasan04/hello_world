@@ -2,6 +2,5 @@
 
 void main()
 {
-  printf("hello world\n");
-  printf("pull request");
+  printf("hello world");
 }
